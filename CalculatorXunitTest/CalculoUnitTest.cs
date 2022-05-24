@@ -18,7 +18,7 @@ namespace CalculatorXunitTest
 
             int num1 = 2;
             int num2 = 6;
-            int valorEsperado = 4;
+            int valorEsperado = 8;
 
             int OperacoaoSoma = calculator.Add(num1, num2);
 
@@ -52,7 +52,7 @@ namespace CalculatorXunitTest
         {
             int num1 = 5;
             int num2 = 10;
-            int valorEsperado = 5;
+            int valorEsperado = 50;
 
             int operacaoMultiplica = calculator.Multiply(num1, num2);
             Assert.Equal(valorEsperado, operacaoMultiplica);
