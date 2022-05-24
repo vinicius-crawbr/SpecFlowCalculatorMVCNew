@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Remote;
 using SpecFlowCalculator.Specs.Support;
 using System;
 namespace SpecFlowCalculator.Specs.PageObjects
@@ -11,7 +12,7 @@ namespace SpecFlowCalculator.Specs.PageObjects
         private IWebDriver _driver;
 
         public CalculatorPageObject(IConfiguration configuration)
-        {
+         {
             _configuration = configuration;
             var chromeOptions = new ChromeOptions();
             //chromeOptions.AddArgument("--headless");
@@ -21,6 +22,7 @@ namespace SpecFlowCalculator.Specs.PageObjects
             if (!String.IsNullOrWhiteSpace(_configuration["PathDriveChrome"]))
             {
                 _driver = new ChromeDriver(_configuration["PathDriveChrome"], chromeOptions);
+                //_driver = new RemoteWebDriver(new Uri("http://localhost:4444/"), chromeOptions.ToCapabilities(), TimeSpan.FromSeconds(600));
             }
             else
                 _driver = new ChromeDriver(chromeOptions);

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XbIGw9B2I2dgxekIUsmbOZviQhiInEA9r4JEw/hfU2i/G9ExH3tvm2aYrIU4LsF7BMZ3AXQlKWrybuR6BfPZXQ==",
+  "dgSpecHash": "1iKdz5Q1lJIAAuT6E6SR2Rb/5mcdMXuvDtSmF3EofcQZ0ogCWeqI3wJXn9nOyAbPzo84ysrLHMBCCcFdejqrFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
   "expectedPackageFiles": [
@@ -46,11 +46,11 @@
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
-    "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow\\3.9.40\\specflow.3.9.40.nupkg.sha512",
+    "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow\\3.9.74\\specflow.3.9.74.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow.internal.json\\1.0.8\\specflow.internal.json.1.0.8.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow.plus.livingdocplugin\\3.9.57\\specflow.plus.livingdocplugin.3.9.57.nupkg.sha512",
-    "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.40\\specflow.tools.msbuild.generation.3.9.40.nupkg.sha512",
-    "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow.xunit\\3.9.40\\specflow.xunit.3.9.40.nupkg.sha512",
+    "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow.tools.msbuild.generation\\3.9.74\\specflow.tools.msbuild.generation.3.9.74.nupkg.sha512",
+    "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\specflow.xunit\\3.9.74\\specflow.xunit.3.9.74.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",

@@ -72,9 +72,13 @@
               "target": "Package",
               "version": "[3.9.57, )"
             },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
             "SpecFlow.xUnit": {
               "target": "Package",
-              "version": "[3.9.40, )"
+              "version": "[3.9.74, )"
             },
             "xunit": {
               "target": "Package",

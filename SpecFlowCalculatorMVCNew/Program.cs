@@ -14,8 +14,11 @@ namespace SpecFlowCalculatorMVCNew
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseContentRoot(@"../../..");
+                    //webBuilder.UseContentRoot(@"../../..");
                     webBuilder.UseStartup<Startup>();
+                    //webBuilder.UseKestrel();
+                    //webBuilder.UseIISIntegration();
+                    webBuilder.UseContentRoot(Directory.GetCurrentDirectory());
                 });
     }
 }

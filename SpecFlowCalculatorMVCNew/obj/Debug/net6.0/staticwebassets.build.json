@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4vVzYyHjAA8Gq/lHi5uSJMkrUqIA6CGAXPOxpZrTH9A=",
+  "Hash": "JaRWlsNOJTgs1CaXqePnnT8GheUby10+rc6PBMZAmZ4=",
   "Source": "SpecFlowCalculatorMVCNew",
   "BasePath": "_content/SpecFlowCalculatorMVCNew",
   "Mode": "Default",
@@ -51,23 +51,6 @@
       "OriginalItemSpec": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SpecFlowCalculatorMVCNew.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\wwwroot\\crawford3cx.jpg",
-      "SourceId": "SpecFlowCalculatorMVCNew",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\wwwroot\\",
-      "BasePath": "_content/SpecFlowCalculatorMVCNew",
-      "RelativePath": "crawford3cx.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\crawford3cx.jpg"
-    },
-    {
       "Identity": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\wwwroot\\css\\site.css",
       "SourceId": "SpecFlowCalculatorMVCNew",
       "SourceType": "Discovered",
@@ -100,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\wwwroot\\image\\crawford3cx.jpg",
+      "SourceId": "SpecFlowCalculatorMVCNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\wwwroot\\",
+      "BasePath": "_content/SpecFlowCalculatorMVCNew",
+      "RelativePath": "image/crawford3cx.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\crawford3cx.jpg"
     },
     {
       "Identity": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\wwwroot\\js\\site.js",

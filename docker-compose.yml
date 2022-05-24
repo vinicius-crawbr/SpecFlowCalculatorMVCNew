@@ -14,3 +14,9 @@ services:
       - "8080:8080"
     networks:
       - web
+  aspnet-core-testflow:
+    image: aspnet-testflow
+    ports:
+      - "5002:80"
+    networks:
+      - web
