@@ -31,7 +31,7 @@ namespace CalculatorXunitTest
         {
             int num1 = 5;
             int num2 = 10;
-            int valorEsperado = -5;
+            int valorEsperado = -50;
 
             int OperacaoSubtracao = calculator.Subtract(num1, num2);
             Assert.Equal(valorEsperado, OperacaoSubtracao);
@@ -42,7 +42,7 @@ namespace CalculatorXunitTest
         {
             int num1 = 24;
             int num2 = 12;
-            int valorEsperado = 2;
+            int valorEsperado = 20;
 
             int operacaoDivide = calculator.Divide(num1, num2);
             Assert.Equal(valorEsperado, operacaoDivide);
@@ -52,7 +52,7 @@ namespace CalculatorXunitTest
         {
             int num1 = 5;
             int num2 = 10;
-            int valorEsperado = 50;
+            int valorEsperado = 500;
 
             int operacaoMultiplica = calculator.Multiply(num1, num2);
             Assert.Equal(valorEsperado, operacaoMultiplica);
@@ -62,7 +62,7 @@ namespace CalculatorXunitTest
         [Theory]
         [InlineData(1,2,3)]
         [InlineData(2,3,5)]
-        [InlineData(-2,2,0)]
+        [InlineData(-2,2,1)]
         [InlineData(int.MinValue, -1, int.MaxValue)]
        public void Add_Theory(int value1, int value2, int expect)
         {
