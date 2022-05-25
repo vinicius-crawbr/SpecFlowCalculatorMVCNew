@@ -59,16 +59,27 @@ namespace CalculatorXunitTest
 
         }
 
+        [Fact]
+        public void DivideFloatPoint()
+        {
+            double num1 = 12;
+            double num2 = 5;
+            double valorEsperado = 2.4;
+
+            double Operacoa = calculator.DivideFloatPoint(num1, num2);
+            Assert.Equal(valorEsperado, Operacoa);
+        }
+
         [Theory]
-        [InlineData(1,2,3)]
-        [InlineData(2,3,5)]
-        [InlineData(-2,2,0)]
+        [InlineData(1, 2, 3)]
+        [InlineData(2, 3, 5)]
+        [InlineData(-2, 2, 0)]
         [InlineData(int.MinValue, -1, int.MaxValue)]
-       public void Add_Theory(int value1, int value2, int expect)
+        public void Add_Theory(int value1, int value2, int expect)
         {
             int result = calculator.Add(value1, value2);
             Assert.Equal(expect, result);
-        } 
+        }
     }
 
 }
