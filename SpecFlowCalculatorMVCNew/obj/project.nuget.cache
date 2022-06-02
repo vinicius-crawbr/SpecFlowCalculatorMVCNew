@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6OeiRbvqkRI+iEohEV2lKrjsyvXqhcy63ex7+z+z8/aj8qZUARW01Pr3gdlO/b4BlLvQDGG6OxulXcO+HxcXA==",
+  "dgSpecHash": "f1DY7xO5KrzE1LYHsmOrFV+y955jde/VXRgo+Wa3Zan6nqaK+tUgbYmEXvTg1796ieollbT430BufXu2rU5RjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj",
+  "projectFilePath": "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.5\\microsoft.aspnetcore.mvc.razor.extensions.6.0.5.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.5\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.5.nupkg.sha512",

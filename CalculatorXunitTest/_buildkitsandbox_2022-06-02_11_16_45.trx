@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="b98a020a-4536-44ff-8c1c-e4e692632982" name="@buildkitsandbox 2022-06-02 11:16:45" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-06-02T11:16:45.8815248+00:00" queuing="2022-06-02T11:16:45.8815250+00:00" start="2022-06-02T11:16:44.8234625+00:00" finish="2022-06-02T11:16:45.9310230+00:00" />
+  <TestSettings name="default" id="48954ebd-3a43-4847-add9-682820bc9a0b">
+    <Deployment runDeploymentRoot="_buildkitsandbox_2022-06-02_11_16_45" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="2888735b-249d-43a4-a5ab-5a8978aa709d" testId="7da7c9ef-bbe2-cce6-f81c-184740919f60" testName="CalculatorXunitTest.CalculatorXunitTests.DivideFloatPoint" computerName="buildkitsandbox" duration="00:00:00.0029359" startTime="2022-06-02T11:16:45.8313002+00:00" endTime="2022-06-02T11:16:45.8313188+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2888735b-249d-43a4-a5ab-5a8978aa709d" />
+    <UnitTestResult executionId="c52c22be-2bff-4776-8cd4-a4cab8c58421" testId="b84c3135-8b76-626d-6178-448d87431196" testName="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: -2, value2: 2, expect: 0)" computerName="buildkitsandbox" duration="00:00:00.0000019" startTime="2022-06-02T11:16:45.8350217+00:00" endTime="2022-06-02T11:16:45.8350217+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c52c22be-2bff-4776-8cd4-a4cab8c58421" />
+    <UnitTestResult executionId="cbb87af2-e799-42d0-b8e8-50ad4ed8915b" testId="404a00a4-6b65-418d-bd9f-cd3c1f74a307" testName="CalculatorXunitTest.CalculatorXunitTests.Multply_TwoInt_ReturnValue" computerName="buildkitsandbox" duration="00:00:00.0000625" startTime="2022-06-02T11:16:45.8350536+00:00" endTime="2022-06-02T11:16:45.8350536+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cbb87af2-e799-42d0-b8e8-50ad4ed8915b" />
+    <UnitTestResult executionId="6f1314a3-4254-4b82-a41f-b66d1850273c" testId="279897a7-0142-5d22-38ec-9a9bfcf76f15" testName="CalculatorXunitTest.CalculatorXunitTests.Divide_TwoInt_ReturnValue" computerName="buildkitsandbox" duration="00:00:00.0000437" startTime="2022-06-02T11:16:45.8585168+00:00" endTime="2022-06-02T11:16:45.8585168+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f1314a3-4254-4b82-a41f-b66d1850273c" />
+    <UnitTestResult executionId="d4b19ab7-9af4-4279-a69d-0b613373efc4" testId="cef92488-1f64-1b06-a4ed-e9c37f8aee49" testName="CalculatorXunitTest.CalculatorXunitTests.Test_is_running_in_linux_container" computerName="buildkitsandbox" duration="00:00:00.0000933" startTime="2022-06-02T11:16:45.8351048+00:00" endTime="2022-06-02T11:16:45.8351048+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d4b19ab7-9af4-4279-a69d-0b613373efc4" />
+    <UnitTestResult executionId="e7f687b3-87e7-4882-999e-629ddb966912" testId="fc6e26a3-0d17-e9e0-2c06-2adb1edefa59" testName="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: -2147483648, value2: -1, expect: 2147483647)" computerName="buildkitsandbox" duration="00:00:00.0000136" startTime="2022-06-02T11:16:45.8349789+00:00" endTime="2022-06-02T11:16:45.8349790+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7f687b3-87e7-4882-999e-629ddb966912" />
+    <UnitTestResult executionId="03a06954-0a15-4c8a-8573-0d6995f455a1" testId="aa91ea72-c6e4-db1a-750c-361f725e0dd0" testName="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: 2, value2: 3, expect: 5)" computerName="buildkitsandbox" duration="00:00:00.0014354" startTime="2022-06-02T11:16:45.8349256+00:00" endTime="2022-06-02T11:16:45.8349257+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="03a06954-0a15-4c8a-8573-0d6995f455a1" />
+    <UnitTestResult executionId="d497cff7-564b-46e7-af69-3270837d741c" testId="6098e3d2-f395-a74b-2293-4c4b5a70bbbf" testName="CalculatorXunitTest.CalculatorXunitTests.Add_TwoInt_ReturnValue" computerName="buildkitsandbox" duration="00:00:00.0000443" startTime="2022-06-02T11:16:45.8351300+00:00" endTime="2022-06-02T11:16:45.8351300+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d497cff7-564b-46e7-af69-3270837d741c" />
+    <UnitTestResult executionId="99459356-4da8-4df3-8527-1086c64a039b" testId="7b32953e-f043-17bb-74a1-36dfa388dbbe" testName="CalculatorXunitTest.CalculatorXunitTests.Subtract_TwoInt_ReturnValue" computerName="buildkitsandbox" duration="00:00:00.0000397" startTime="2022-06-02T11:16:45.8350799+00:00" endTime="2022-06-02T11:16:45.8350799+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="99459356-4da8-4df3-8527-1086c64a039b" />
+    <UnitTestResult executionId="c9575912-eeef-4b29-a06c-d7ba385d0063" testId="4bbc521a-ee2f-e574-fe24-7a66e38a48d7" testName="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: 1, value2: 2, expect: 3)" computerName="buildkitsandbox" duration="00:00:00.0000020" startTime="2022-06-02T11:16:45.8350008+00:00" endTime="2022-06-02T11:16:45.8350008+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c9575912-eeef-4b29-a06c-d7ba385d0063" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: -2147483648, value2: -1, expect: 2147483647)" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="fc6e26a3-0d17-e9e0-2c06-2adb1edefa59">
+      <Execution id="e7f687b3-87e7-4882-999e-629ddb966912" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Add_Theory" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Multply_TwoInt_ReturnValue" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="404a00a4-6b65-418d-bd9f-cd3c1f74a307">
+      <Execution id="cbb87af2-e799-42d0-b8e8-50ad4ed8915b" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Multply_TwoInt_ReturnValue" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: 1, value2: 2, expect: 3)" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="4bbc521a-ee2f-e574-fe24-7a66e38a48d7">
+      <Execution id="c9575912-eeef-4b29-a06c-d7ba385d0063" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Add_Theory" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Subtract_TwoInt_ReturnValue" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="7b32953e-f043-17bb-74a1-36dfa388dbbe">
+      <Execution id="99459356-4da8-4df3-8527-1086c64a039b" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Subtract_TwoInt_ReturnValue" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Add_TwoInt_ReturnValue" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="6098e3d2-f395-a74b-2293-4c4b5a70bbbf">
+      <Execution id="d497cff7-564b-46e7-af69-3270837d741c" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Add_TwoInt_ReturnValue" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Divide_TwoInt_ReturnValue" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="279897a7-0142-5d22-38ec-9a9bfcf76f15">
+      <Execution id="6f1314a3-4254-4b82-a41f-b66d1850273c" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Divide_TwoInt_ReturnValue" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Test_is_running_in_linux_container" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="cef92488-1f64-1b06-a4ed-e9c37f8aee49">
+      <Execution id="d4b19ab7-9af4-4279-a69d-0b613373efc4" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Test_is_running_in_linux_container" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: 2, value2: 3, expect: 5)" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="aa91ea72-c6e4-db1a-750c-361f725e0dd0">
+      <Execution id="03a06954-0a15-4c8a-8573-0d6995f455a1" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Add_Theory" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.Add_Theory(value1: -2, value2: 2, expect: 0)" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="b84c3135-8b76-626d-6178-448d87431196">
+      <Execution id="c52c22be-2bff-4776-8cd4-a4cab8c58421" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="Add_Theory" />
+    </UnitTest>
+    <UnitTest name="CalculatorXunitTest.CalculatorXunitTests.DivideFloatPoint" storage="/app/bin/release/net6.0/calculatorxunittest.dll" id="7da7c9ef-bbe2-cce6-f81c-184740919f60">
+      <Execution id="2888735b-249d-43a4-a5ab-5a8978aa709d" />
+      <TestMethod codeBase="/app/bin/Release/net6.0/CalculatorXunitTest.dll" adapterTypeName="executor://xunit/VsTestRunner2/netcoreapp" className="CalculatorXunitTest.CalculatorXunitTests" name="DivideFloatPoint" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="7da7c9ef-bbe2-cce6-f81c-184740919f60" executionId="2888735b-249d-43a4-a5ab-5a8978aa709d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b84c3135-8b76-626d-6178-448d87431196" executionId="c52c22be-2bff-4776-8cd4-a4cab8c58421" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="404a00a4-6b65-418d-bd9f-cd3c1f74a307" executionId="cbb87af2-e799-42d0-b8e8-50ad4ed8915b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="279897a7-0142-5d22-38ec-9a9bfcf76f15" executionId="6f1314a3-4254-4b82-a41f-b66d1850273c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cef92488-1f64-1b06-a4ed-e9c37f8aee49" executionId="d4b19ab7-9af4-4279-a69d-0b613373efc4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fc6e26a3-0d17-e9e0-2c06-2adb1edefa59" executionId="e7f687b3-87e7-4882-999e-629ddb966912" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aa91ea72-c6e4-db1a-750c-361f725e0dd0" executionId="03a06954-0a15-4c8a-8573-0d6995f455a1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6098e3d2-f395-a74b-2293-4c4b5a70bbbf" executionId="d497cff7-564b-46e7-af69-3270837d741c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7b32953e-f043-17bb-74a1-36dfa388dbbe" executionId="99459356-4da8-4df3-8527-1086c64a039b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4bbc521a-ee2f-e574-fe24-7a66e38a48d7" executionId="c9575912-eeef-4b29-a06c-d7ba385d0063" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="10" executed="10" passed="10" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 6.0.5)
+[xUnit.net 00:00:00.47]   Discovering: CalculatorXunitTest
+[xUnit.net 00:00:00.52]   Discovered:  CalculatorXunitTest
+[xUnit.net 00:00:00.52]   Starting:    CalculatorXunitTest
+[xUnit.net 00:00:00.60]   Finished:    CalculatorXunitTest
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

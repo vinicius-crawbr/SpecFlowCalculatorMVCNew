@@ -1,16 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Runtime.InteropServices;
 using Xunit;
-using SpecFlowCalculatorMVCNew;
 
 namespace CalculatorXunitTest
 {
     public class CalculatorXunitTests
     {
         Calculator calculator = new Calculator();
+
+        [Fact]
+        public void Test_is_running_in_linux_container()
+        {
+            Assert.True(RuntimeInformation.IsOSPlatform(OSPlatform.Linux));
+        }
 
         [Fact]
         public void Add_TwoInt_ReturnValue()

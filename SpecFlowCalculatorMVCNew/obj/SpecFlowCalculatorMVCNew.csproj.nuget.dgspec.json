@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj": {}
+    "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj": {
+    "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj",
         "projectName": "SpecFlowCalculatorMVCNew",
-        "projectPath": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj",
+        "projectPath": "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew.csproj",
         "packagesPath": "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\obj\\",
+        "outputPath": "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",

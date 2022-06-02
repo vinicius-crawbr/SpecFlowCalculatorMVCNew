@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1iKdz5Q1lJIAAuT6E6SR2Rb/5mcdMXuvDtSmF3EofcQZ0ogCWeqI3wJXn9nOyAbPzo84ysrLHMBCCcFdejqrFw==",
+  "dgSpecHash": "1YRhs9H5+uDtIeyzOs5k3NvD+1dB+LobZOt1kx2J59GY6oQ21qx45hj90/k8jnut839Iut/iDZS2fr6A9I8dyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinicius.oliveira\\Desktop\\SpecFlowCalculatorMVCNew\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
+  "projectFilePath": "C:\\Users\\vinicius.oliveira\\Downloads\\SpecFlowCalculatorMVCNew\\SpecFlowCalculatorMVCNew\\SpecFlowCalculator.Specs\\SpecFlowCalculator.Specs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\vinicius.oliveira\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",

@@ -2,21 +2,16 @@ version: '3'
 networks:
   web:
 services:
-  aspnet-core:
-    image: aspnet-test:latest
+  xunit-test:
+    image: xunit:latest
     ports:
       - "5001:80"
     networks:
       - web
-  jenkins:
-    image: jenkins-asp
-    ports:
-      - "8080:8080"
-    networks:
-      - web
-  aspnet-core-testflow:
-    image: aspnet-testflow
-    ports:
-      - "5002:80"
-    networks:
-      - web
+  # jenkins:
+  #   image: jenkins-asp
+  #   ports:
+  #     - "8080:8080"
+  #   networks:
+  #     - web
+
